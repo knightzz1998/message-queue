@@ -9,5 +9,5 @@
 ## RocketMQ
 
 待实现 : 
-- [] RocketMQ基础API
-- [] RocketMQ整合SpringBoot
+- [ ] RocketMQ基础API
+- [ ] RocketMQ整合SpringBoot
